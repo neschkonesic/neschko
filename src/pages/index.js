@@ -22,7 +22,7 @@ const IndexPage = ({
         <title>{site.siteMetadata.title}</title>
         <meta name="description" content={site.siteMetadata.description} />
 
-        <script src="//code.tidio.co/iparhyhyxmxoaqtm7bnpkpzswiv3q0lf.js" async></script>
+        <script src="//code.tidio.co/jnitj1fo8jdy1wlinerutgpacgolwl4r.js" async></script>
 
 
 
